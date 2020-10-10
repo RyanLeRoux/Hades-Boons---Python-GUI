@@ -6,6 +6,8 @@ where the Gods of Olympus assist Zagreus in his attempt to escape his father's r
 On each escape attempt, the assistance from the Gods are randomized in both what Gods offer their assistance, and what skills you are offered. 
 Choosing the right skills are vital in order to improve your chances at succeeding in the run.
 
+All information in this GUI is obtained from the [Hades Wiki](https://hades.gamepedia.com/Hades_Wiki "Hades Wiki").
+
 ## Run the GUI
 
 The Tkinter library for Python was used in order to create the GUI. 
