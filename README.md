@@ -27,10 +27,12 @@ Zagreus has the following basic skills:
 
 When selecting certain skills from certain Gods, there is a chance to obtain an even stronger passive spell, known as a duo spell. 
 
-In order to obtain a duo spell from two Gods, you must have a specific skill from both Gods in order to satisfy the requirement. 
+In order to obtain a duo spell from two Gods, you must have a specific skill (listed in the box under the buttons) from both Gods in order to satisfy the requirement. 
 
 In the GUI, simply select the God whose spell you have obtained, and in the text box underneath there will be a list of all 
-requirements needed to obtain the duo spells. For example, in order to have a chance at acquiring the duo spell between Aphrodite and
+requirements needed to obtain the duo spells. 
+
+For example, in order to have a chance at acquiring the duo spell between Aphrodite and
 Ares, the user must have either Aphrodite's attack, special, cast or dash, and must have either the attack or special from Ares 
 (in other words, one basic skill listed in the GUI from both Gods). 
 
