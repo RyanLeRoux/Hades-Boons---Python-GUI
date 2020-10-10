@@ -49,3 +49,7 @@ The following are needed to satisfy the Legendary requirement:
 Black Metal or Englufing Vortex without first getting either his cast, dash or aid.)
 
 These requirements will be shown in the right text box, along with the specific duo skills (for quick reference). 
+
+When duo skills are listed, the God that is not chosen will have their skills shown in brackets to the right of the skills
+required for a duo boon. This is to signifify that at least one of the skills in brackets must be chosen as a 
+prerequisite for their Legendary.
